@@ -2,4 +2,4 @@
 Ejercicio 2 : Agenda personal
 ------------------------------------------------------------------------
 
-Paarticipantes: JHONNY ALVARO TICONA MENDOZA
+AUTOR: JORGE LUIS CALLIZAYA DIAZ
